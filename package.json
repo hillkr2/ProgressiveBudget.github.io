@@ -23,6 +23,7 @@
     "express": "^4.17.1",
     "init": "^0.1.2",
     "lite-server": "^2.5.3",
+    "minimist": "^1.2.5",
     "mongoose": "^5.5.15",
     "morgan": "^1.9.1"
   }
